@@ -1,0 +1,12 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : animate
+# key : animate
+# --
+animate({
+  $0,  
+  $1,
+  $2,
+}, $3, #time
+ function(){
+ // completion
+})

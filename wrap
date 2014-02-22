@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : wrap
+# key : wrap
+# --
+.wrap($0)

@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : undelegate
+# key : undelegate
+# --
+.undelegate($0, $1, $2);

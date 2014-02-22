@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : data
+# key : data
+# --
+data( $0,$1 );

@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : map
+# key : map
+# --
+map(function(index, elem) {
+  ${1:return ${2:something};}
+})

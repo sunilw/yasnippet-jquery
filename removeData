@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : removeDate
+# key : removeData
+# --
+removeData('${1:data name}')

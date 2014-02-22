@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name: ready
+# key: ready
+# --
+jQuery(document).ready(function() {
+    $0
+});

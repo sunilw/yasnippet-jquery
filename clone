@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name: clone
+# key: clone
+# --
+clone($0)

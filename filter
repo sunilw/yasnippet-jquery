@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : filter
+# key : filter
+# --
+filter(function(index) {
+  ${1:return ${2:something};}
+})

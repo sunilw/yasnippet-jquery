@@ -1,0 +1,8 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : submit
+# key : submit
+# --
+submit(function( event ) {
+  console.debug( "Handler for .submit() called." );
+  event.preventDefault();
+});

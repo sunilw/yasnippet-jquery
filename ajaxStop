@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxStop
+# key : ajaxStop
+# --
+.ajaxStop(function() {
+  ${1://stuff to do when all AJAX calls have completed};
+});

@@ -1,0 +1,6 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : prev
+# key : prev
+# This was cloned from a TextMate bundle for yasnippet.
+# --
+prev($0)

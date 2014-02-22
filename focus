@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : focus
+# key : focus
+# --
+.focus(${1:function() {
+	${0:// Act on the event}
+}});

@@ -1,0 +1,10 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : toggle
+# key : toggle
+# --
+.toggle(function() {
+	$0
+}, function() {
+	$1	
+});
+

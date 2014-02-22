@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : appendTo
+# key : appendTo
+# --
+appendTo('${1:selector expression}')

@@ -1,0 +1,9 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxSetup
+# key : ajaxSetup
+# --
+// Set default values for future Ajax requests
+// "it's use is not recommended'"
+$.ajaxSetup({
+  url: "$0"
+});

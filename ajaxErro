@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxError
+# key : ajaxError
+# --
+ajaxError(function(${1:event, xhr, settings, thrownError}) {
+  ${2://stuff to do when an AJAX call returns an error};
+});

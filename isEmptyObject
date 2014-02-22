@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name: isEmptyObjec
+# key: isEmptyObject
+# --
+$.isEmptyObject($0)

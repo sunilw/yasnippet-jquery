@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxSend
+# key : ajaxSend
+# --
+ajaxSend(function(${1:event, xhr, settings}) {
+  ${2://stuff to do before an AJAX request is sent};
+})

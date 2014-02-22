@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : delay
+# key : delay
+# --
+.delay($0)

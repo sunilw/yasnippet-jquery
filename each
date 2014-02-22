@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : each
+# key : each
+# --
+.each(function(index) {
+   $1
+});

@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : mouseout
+# key : mouseout
+# --
+mouseout(${1:function() {
+	${0:// Act on the event}
+\}});

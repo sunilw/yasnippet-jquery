@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxStart
+# key : ajaxStart
+# --
+ajaxStart(function() {
+  ${1://stuff to do when an AJAX call is started and no other AJAX calls are in progress};
+})

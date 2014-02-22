@@ -1,0 +1,7 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : ajaxSuccess
+# key : ajaxSuccess
+# --
+ajaxSuccess(function(event, xhr, settings) {
+	${1:// executes whenever an AJAX request completes successfully}
+});

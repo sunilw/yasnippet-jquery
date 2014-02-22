@@ -1,0 +1,5 @@
+# contributor Sunil Williams <sunil@sunil.co.nz>
+# name : wrapInner
+# key : wrapInner
+# --
+.wrapInner($0)
